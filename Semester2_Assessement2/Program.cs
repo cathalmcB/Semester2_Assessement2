@@ -27,9 +27,10 @@ namespace Semester2_Assessement2
             bool repeat = true;
             int[,] array = new int[3, 3];
 
-            string[] playerInfo = File.ReadAllLines(@"C:\Users\Cahar\Documents\scores.txt");
+            string[] playerInfo = File.ReadAllLines(@"C: \Users\Cahar\Documents\First_Year\C#_Programming\Semester2_Assessement2\scores.txt");
 
-            
+
+
 
 
 
