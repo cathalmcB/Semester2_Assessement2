@@ -1,0 +1,6 @@
+C:\Users\Cahar\Documents\First_Year\C#_Programming\Semester2_Assessement2\Semester2_Assessement2\bin\Debug\Semester2_Assessement2.exe.config
+C:\Users\Cahar\Documents\First_Year\C#_Programming\Semester2_Assessement2\Semester2_Assessement2\obj\Debug\Semester2_Assessement2.csprojResolveAssemblyReference.cache
+C:\Users\Cahar\Documents\First_Year\C#_Programming\Semester2_Assessement2\Semester2_Assessement2\bin\Debug\Semester2_Assessement2.exe
+C:\Users\Cahar\Documents\First_Year\C#_Programming\Semester2_Assessement2\Semester2_Assessement2\bin\Debug\Semester2_Assessement2.pdb
+C:\Users\Cahar\Documents\First_Year\C#_Programming\Semester2_Assessement2\Semester2_Assessement2\obj\Debug\Semester2_Assessement2.exe
+C:\Users\Cahar\Documents\First_Year\C#_Programming\Semester2_Assessement2\Semester2_Assessement2\obj\Debug\Semester2_Assessement2.pdb
